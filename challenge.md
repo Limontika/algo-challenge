@@ -8,7 +8,7 @@
 | 2020-10-03 | 1. [Two sum](https://leetcode.com/problems/two-sum/) | [Link](https://leetcode.com/submissions/detail/404278498/) |
 | 2020-10-04 | 7. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Link](https://leetcode.com/submissions/detail/404292011/) |
 | 2020-10-05 | 9. [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Link](https://leetcode.com/submissions/detail/404922855/) |
-|            |                   |                                                            |
+| 2020-10-06 | 13. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Link](https://leetcode.com/submissions/detail/405177626/) |
 |            |                   |                                                            |
 |            |                   |                                                            |
 |            |                   |                                                            |
