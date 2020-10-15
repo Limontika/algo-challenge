@@ -17,3 +17,4 @@
 | 2020-10-12 | 35. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Link](https://leetcode.com/submissions/detail/407886589/) |
 | 2020-10-13 | 58. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/) | [Link](https://leetcode.com/submissions/detail/408122969/) |
 | 2020-10-14 | 66. [Plus One](https://leetcode.com/problems/plus-one/) | [Link](https://leetcode.com/submissions/detail/408544326/) |
+| 2020-10-14 | 88. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://leetcode.com/submissions/detail/408984270/) |
